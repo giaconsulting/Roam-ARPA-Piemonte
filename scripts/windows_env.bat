@@ -1,0 +1,2 @@
+CALL setup.env
+cmd

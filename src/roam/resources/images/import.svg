@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="170.46349"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-9"
+     showgrid="false"
+     inkscape:window-width="470"
+     inkscape:window-height="451"
+     inkscape:window-x="132"
+     inkscape:window-y="174"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <g
+       transform="matrix(0.62271186,0,0,0.62271186,5.254952,393.6712)"
+       id="layer1-9"
+       inkscape:label="Layer 1">
+      <g
+         transform="matrix(7.014007,0,0,7.014007,-1787.6557,-2229.651)"
+         id="g2996">
+        <polygon
+           transform="matrix(-1.3389832,0,0,-1.3768772,755.08831,920.75514)"
+           style="fill:#5b93c2;fill-opacity:1"
+           points="349.089,351.015 305.393,351.015 319.062,364.685 289.981,393.765 306.339,410.123 335.42,381.042 349.089,394.711 "
+           id="polygon2986" />
+        <path
+           style="fill:#5b93c2;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="m 349.89239,422.27162 v 17.71702 c 0,5.62644 -4.45054,10.20295 -9.92213,10.20295 h -57.09049 c -5.47157,0 -9.92212,-4.57651 -9.92212,-10.20295 v -58.70617 c 0,-5.62644 4.45055,-10.20294 9.92212,-10.20294 h 23.38051 l 15.56447,-16.00494 h -50.4947 c -7.68441,0 -13.93509,6.42941 -13.93509,14.32944 v 82.45938 c 0,7.90188 6.25246,14.32946 13.93509,14.32946 h 80.18994 c 7.68441,0 13.9351,-6.42942 13.9351,-14.32946 v -45.59859 l -15.5627,16.0068 z"
+           id="path2988" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<RCC>
+  <qresource prefix="widgets">
+    <file alias="add">resources/widgets/image.svg</file>
+    <file alias="reload">resources/widgets/reload.svg</file>
+    <file alias="folder">resources/widgets/folder-open.svg</file>
+    <file alias="camera">resources/widgets/camera.svg</file>
+    <file alias="drawing">resources/widgets/drawing.svg</file>
+    <file alias="red">resources/widgets/red.svg</file>
+    <file alias="black">resources/widgets/black.svg</file>
+    <file alias="blue">resources/widgets/blue.svg</file>
+  </qresource>
+  <qresource prefix="symbol">
+    <file>resources/images/simboli/rect.png</file>
+    <file>resources/images/simboli/Cross2.png</file>
+    <file>resources/images/simboli/Diamond.png</file>
+    <file>resources/images/simboli/Freccia.png</file>
+    <file>resources/images/simboli/Freccia_2.png</file>
+    <file>resources/images/simboli/Penta.png</file>
+    <file>resources/images/simboli/Square.png</file>
+    <file>resources/images/simboli/Triangolo.png</file>
+    <file>resources/images/simboli/Triangolo2.png</file>
+    <file>resources/images/simboli/Circle.png</file>
+    <file>resources/images/simboli/cerchio.png</file>
+    <file>resources/images/simboli/freeDraw.png</file>
+    <file>resources/images/simboli/redo.png</file>
+    <file>resources/images/simboli/stop-01.png</file>
+    <file>resources/images/simboli/undo.png</file>
+    <file>resources/images/simboli/refresh.png</file>
+    <file>resources/images/simboli/whiteStar.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file alias="eraser">resources/images/eraser.png</file>
+    <file alias="tick_icon">resources/images/tick.svg</file>
+    <file alias="expand">resources/images/expand.svg</file>
+    <file alias="cross_icon">resources/images/cross.svg</file>
+    <file alias="cancel">resources/images/cancel.svg</file>
+    <file alias="delete">resources/images/delete.svg</file>
+    <file alias="edit">resources/images/edit.svg</file>
+    <file alias="editgeom">resources/images/edit_geom.svg</file>
+    <file alias="home">resources/images/home.svg</file>
+    <file alias="in">resources/images/in.svg</file>
+    <file alias="out">resources/images/out.svg</file>
+    <file alias="pan">resources/images/pan.svg</file>
+    <file alias="open">resources/images/open.svg</file>
+    <file alias="photo">resources/images/photo.png</file>
+    <file alias="gps">resources/images/gps.svg</file>
+    <file alias="gps_failed">resources/images/gps_failed.svg</file>
+    <file alias="gps_on">resources/images/gps_on.svg</file>
+    <file alias="gps_looking">resources/images/gps_looking.svg</file>
+    <file alias="gps_marker">resources/images/gps_marker.svg</file>
+    <file alias="calender">resources/images/calender.png</file>
+    <file alias="map">resources/images/map.svg</file>
+    <file alias="save_default">resources/images/save_default.svg</file>
+    <file alias="move">resources/images/move.png</file>
+    <file alias="gpsadd">resources/images/capturegps.svg</file>
+    <file alias="syncing">resources/images/sync_progress.png</file>
+    <file alias="syncdone">resources/images/sync_complete.png</file>
+    <file alias="syncfail">resources/images/sync_fail.png</file>
+    <file alias="syncinfo">resources/images/sync_info.png</file>
+    <file alias="sync">resources/images/sync.png</file>
+    <file alias="help">resources/images/help.png</file>
+    <file alias="warning">resources/images/warning.svg</file>
+    <file alias="info">resources/images/info.svg</file>
+    <file alias="error">resources/images/error.svg</file>
+    <file alias="quit">resources/images/quit.svg</file>
+    <file alias="config">resources/images/config.svg</file>
+    <file alias="select">resources/images/select.svg</file>
+    <file alias="save">resources/images/save.svg</file>
+    <file alias="dataentry">resources/images/edit.svg</file>
+    <file alias="capture-point">resources/images/capture-point.svg</file>
+    <file alias="capture-line">resources/images/capture-line.svg</file>
+    <file alias="capture-polygon">resources/images/capture-polygon.svg</file>
+    <file alias="stop-capture">resources/images/stop-capture.svg</file>
+    <file alias="down">resources/images/down.svg</file>
+    <file alias="remove">resources/images/remove.svg</file>
+    <file alias="next">resources/images/next.svg</file>
+    <file alias="previous">resources/images/previous.svg</file>
+    <file alias="add">resources/images/add.svg</file>
+    <file alias="project">resources/images/file.svg</file>
+    <file alias="folder_broken">resources/images/folder_broken.svg</file>
+    <file alias="folder">resources/images/folder.svg</file>
+    <file alias="legend">resources/images/legend.svg</file>
+    <file alias="import">resources/images/import.svg</file>
+  </qresource>
+  <qresource prefix="branding">
+    <file alias="config">resources/branding/config.ico</file>
+    <file alias="logo">resources/branding/logo.png</file>
+    <file alias="dms">resources/branding/dms.png</file>
+    <file alias="qgis">resources/branding/qgis-icon.png</file>
+  </qresource>
+</RCC>

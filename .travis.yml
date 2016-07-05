@@ -1,0 +1,26 @@
+language: python
+virtualenv:
+  system_site_packages: true
+python:
+  - "2.7"
+cache: apt
+before_install:
+    - sudo add-apt-repository ppa:ubuntugis/ppa -y
+    - sudo apt-get update
+    - sudo apt-get install qgis libqt4-dev python-qt4 python-qt4-dev python-qgis python-sip pyqt4-dev-tools python-qt4-sql
+before_script:
+    - echo "Build starting on " `date`
+    - export QGIS_PREFIX_PATH=/usr
+    - export PYTHONPATH=${QGIS_PREFIX_PATH}/share/qgis/python/:${QGIS_PREFIX_PATH}/share/qgis/python/plugins:`pwd`
+    - echo "PYTHONPATH:" $PYTHONPATH
+    - ls ${QGIS_PREFIX_PATH}/share/qgis/python/plugins/
+    - export LD_LIBRARY_PATH=${QGIS_PREFIX_PATH}/lib
+    - ./build_linux.sh
+install:
+    - pip install PIL --allow-external PIL --allow-unverified PIL
+    - pip install -r travis_requirements.txt
+script:
+    - xvfb-run --server-args="-screen 0, 1024x768x24" py.test -v
+notifications:
+    email:
+        - madmanwoo@gmail.com
