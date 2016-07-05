@@ -1,13 +1,7 @@
-[![Build Status](https://travis-ci.org/DMS-Aus/Roam.svg?branch=master)](https://travis-ci.org/DMS-Aus/Roam)
+Il prodotto software GIS è un applicazione verticalizzata del framework GIS open source  ROAM  vers. 2.3.1, 
+I sorgenti  delle funzionalità implementate, specifiche del progetto, sono rilasciate con licenza GNU General Public License vers. 2 in linea con la licenza  ROAM  release 2.3.1.
 
-IntraMaps Roam is a field data collection application built using the QGIS libraries and Python. It was built to be easy to use on (windows) based tablet devices, with Android planned for the future.
-
-IntraMaps Roam is built as a standalone fully packaged Python application with everything included. QGIS is **not** required to be installed on the client machine and only on the machine that builds Roam from source.  Pre-built binary packages will be available after the first release. 
-
-
-![a](http://i.imgur.com/F4TZScJ.png)
-
-See the [wiki](https://github.com/DMS-Aus/Roam/wiki) for information on how to create a project and user guides.
+Attività finanziata da Arpa Piemonte nell'ambito del Progetto 187 Risba, cofinanziato con fondi FESR Alcotra 2007-2013 e realizzato da GIA Consulting SRL.
 
 License
 --------------
